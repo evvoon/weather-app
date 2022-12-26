@@ -1,4 +1,5 @@
-#API driven weather app
+## API driven weather app
+
 This webapp allows users to quickly and easily check the current weather conditions for any location around the world. The app was built using an API (Application Programming Interface) which provided me with real-time weather data from various sources.
 
 One of the most enjoyable aspects of creating this weather app was learning about APIs and how they work. An API is essentially a set of instructions that allow different software systems to communicate with each other, and it was fascinating to see how I could use an API to access such a vast amount of data in a matter of seconds.
