@@ -128,6 +128,8 @@
         {/each}
       </div>
     {/if}
+  {:else}
+    description
   {/if}
 </section>
 
